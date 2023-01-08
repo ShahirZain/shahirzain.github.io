@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ShahirZain/personal-website/build/static/css/main.778eeed7.css",
-    "main.js": "/ShahirZain/personal-website/build/static/js/main.8c486cb4.js",
-    "static/js/787.4b24f717.chunk.js": "/ShahirZain/personal-website/build/static/js/787.4b24f717.chunk.js",
-    "static/media/shahirzain.jpeg": "/ShahirZain/personal-website/build/static/media/shahirzain.a2dd1e5063eff7e250ab.jpeg",
-    "index.html": "/ShahirZain/personal-website/build/index.html",
-    "main.778eeed7.css.map": "/ShahirZain/personal-website/build/static/css/main.778eeed7.css.map",
-    "main.8c486cb4.js.map": "/ShahirZain/personal-website/build/static/js/main.8c486cb4.js.map",
-    "787.4b24f717.chunk.js.map": "/ShahirZain/personal-website/build/static/js/787.4b24f717.chunk.js.map"
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.086d7a54.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/shahirzain.jpeg": "/static/media/shahirzain.a2dd1e5063eff7e250ab.jpeg",
+    "index.html": "/index.html",
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.086d7a54.js.map": "/static/js/main.086d7a54.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.778eeed7.css",
-    "static/js/main.8c486cb4.js"
+    "static/js/main.086d7a54.js"
   ]
 }
